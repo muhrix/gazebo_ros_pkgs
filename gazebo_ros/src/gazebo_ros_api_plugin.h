@@ -23,6 +23,8 @@
 #ifndef __GAZEBO_ROS_API_PLUGIN_HH__
 #define __GAZEBO_ROS_API_PLUGIN_HH__
 
+#define TIXML_USE_STL
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <signal.h>
